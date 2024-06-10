@@ -4,15 +4,13 @@ This webapp was developed using Flask Web Framework. The models used to predict 
 
 - Chronic-Kidney-Disease-Prediction
 
-![image](https://user-images.githubusercontent.com/62790398/125474693-082d87df-953e-43d2-b175-08afd43ec9b0.png)
+![image](https://github.com/bn8204/3rdsem/assets/143586992/10c26141-7b8f-4396-b56e-b922b394916c)
+![image](https://github.com/bn8204/3rdsem/assets/143586992/d3703f01-658d-4d9a-afc1-917fc22c4688)
+![image](https://github.com/bn8204/3rdsem/assets/143586992/b1260d52-0202-408d-a403-8e63ae5eecad)
+![image](https://github.com/bn8204/3rdsem/assets/143586992/876f3570-8cf4-4556-813d-fe33e7d9b0a3)
+![image](https://github.com/bn8204/3rdsem/assets/143586992/999e1ccb-531e-4e2a-9c39-0fb49290f73d)
 
-![image](https://user-images.githubusercontent.com/62790398/125474884-71a047bf-2648-49ff-816d-907b1dc2b68a.png)
 
-![image](https://user-images.githubusercontent.com/62790398/125475302-8e02b5d8-d0b2-473b-b83e-f4d807dc0412.png)
-
-![image](https://user-images.githubusercontent.com/62790398/125475398-c9a38e88-7cf1-4c37-aec7-5669280f8a22.png)
-
-![image](https://user-images.githubusercontent.com/62790398/125475606-78b45b72-14d5-4399-bcf5-34f3a8bbb9ff.png)
 
 
 ## Steps to run this application in your system
